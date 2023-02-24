@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WUaeIhAq+1INePN20+Zv5Pd9luiV5d56Y+C5ZWd0P90ilkyxrLQem1kb+EaRcMUiqKQwe3m3syokfVeMk90WFw==",
+  "success": true,
+  "projectFilePath": "D:\\Source Codes\\Github.com\\YarpReverse\\YarpReverse\\YarpReverse\\YarpReverse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\T2\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\T2\\.nuget\\packages\\system.io.hashing\\7.0.0\\system.io.hashing.7.0.0.nupkg.sha512",
+    "C:\\Users\\T2\\.nuget\\packages\\yarp.reverseproxy\\2.0.0\\yarp.reverseproxy.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
