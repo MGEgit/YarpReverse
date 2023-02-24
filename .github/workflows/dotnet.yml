@@ -27,7 +27,7 @@ jobs:
     - name: Test
       run: dotnet test --no-build --verbosity normal
     - name: Publish
-      run: dotnet publish -c Release -o
+      run: dotnet publish
 
     - name: Publish to Netlify
       uses: netlify/actions/cli@master #uses Netlify Cli actions
