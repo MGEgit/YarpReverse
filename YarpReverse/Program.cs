@@ -1,8 +1,17 @@
+using System.Net;
+using System.Net.Sockets;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddReverseProxy()
     .LoadFromConfig(builder.Configuration.GetSection("ReverseProxy"));
+
+var host = Dns.GetHostEntry(Dns.GetHostName());
+foreach (var ip in host.AddressList)
+{
+    Console.WriteLine(ip.ToString());
+}
 
 var app = builder.Build();
 
