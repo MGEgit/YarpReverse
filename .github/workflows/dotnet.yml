@@ -26,8 +26,8 @@ jobs:
       run: dotnet build --no-restore
     - name: Test
       run: dotnet test --no-build --verbosity normal
-    - name: Publish Blazor webassembly using dotnet 
-      run: dotnet publish -c Release --no-build -o ./
+    - name: Publish
+      run: dotnet publish -c Release -o
 
     - name: Publish to Netlify
       uses: netlify/actions/cli@master #uses Netlify Cli actions
