@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Source Codes\\Github.com\\YarpReverse\\YarpReverse\\YarpReverse\\YarpReverse.csproj": {}
+    "D:\\Source Codes\\Github.com\\YarpReverse\\YarpReverse\\YarpReverse.csproj": {}
   },
   "projects": {
-    "D:\\Source Codes\\Github.com\\YarpReverse\\YarpReverse\\YarpReverse\\YarpReverse.csproj": {
+    "D:\\Source Codes\\Github.com\\YarpReverse\\YarpReverse\\YarpReverse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source Codes\\Github.com\\YarpReverse\\YarpReverse\\YarpReverse\\YarpReverse.csproj",
+        "projectUniqueName": "D:\\Source Codes\\Github.com\\YarpReverse\\YarpReverse\\YarpReverse.csproj",
         "projectName": "YarpReverse",
-        "projectPath": "D:\\Source Codes\\Github.com\\YarpReverse\\YarpReverse\\YarpReverse\\YarpReverse.csproj",
+        "projectPath": "D:\\Source Codes\\Github.com\\YarpReverse\\YarpReverse\\YarpReverse.csproj",
         "packagesPath": "C:\\Users\\T2\\.nuget\\packages\\",
-        "outputPath": "D:\\Source Codes\\Github.com\\YarpReverse\\YarpReverse\\YarpReverse\\obj\\",
+        "outputPath": "D:\\Source Codes\\Github.com\\YarpReverse\\YarpReverse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\T2\\AppData\\Roaming\\NuGet\\NuGet.Config",
